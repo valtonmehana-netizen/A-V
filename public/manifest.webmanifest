@@ -1,0 +1,15 @@
+{
+  "name": "Love Leap — Valton & Ardiana",
+  "short_name": "Love Leap",
+  "description": "Hold hands. Run together through Taukbashqe Park.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#3a2560",
+  "theme_color": "#6a3a7a",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
